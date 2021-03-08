@@ -1,1 +1,1 @@
-<h4 align="center">🍋 If you were a lemon I'd put you on a shelf and cherish you like I cherish all our lemons. 🍋</h4>
+<h4 align="center">Programming is like sex. One mistake and you have to support it for the rest of your live. - Michael Sinz</h4>
